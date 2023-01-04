@@ -1,10 +1,10 @@
 
-  # poop
+  # read me generator
   
-  ![Badge](https://img.shields.io/badge/License-Apache-blue.svg)
+  ![Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
-  poop
+  my motivation for this project was to build an application that allows a user to quickly create a proffessional readme for a new project.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,22 +14,22 @@
   - [Tests](#Tests)
 
   ## Installation
-    poopinde
+    N/A
 
   ## Usage
-    poop
+    enter "node index.js" and answer prompts as shown in this demonstration.
 
   ## License
-    Apache license. 
+    This application is covered under the MIT license. 
 
   ## Contribution 
-    poop
+    N/A
 
   ## Tests
-    poop
+    N/A
 
   ## Questions
   If you have any questions, contact me!
-  Github: https://github.com/poop
-  Email: poop
+  Github: https://github.com/salenaoneill
+  Email: salenaoneill@gmail.com
   
