@@ -17,6 +17,7 @@
     N/A
 
   ## Usage
+  https://drive.google.com/file/d/14KZxGWKCqzX4hR_0vU1tQgeQtoCEDKFO/view?usp=sharing
     enter "node index.js" and answer prompts as shown in this demonstration.
 
   ## License
